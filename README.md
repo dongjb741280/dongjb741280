@@ -65,3 +65,14 @@
 </div>
 
 ###
+
+
+### 📂 热门项目
+- [ai-office-assistant](https://github.com/dongjb741280/ai-office-assistant) – AI 办公助手  
+- [ai-call-center](https://github.com/dongjb741280/ai-call-center) – AI 驱动呼叫中心  
+- [freeswitch-esl-python-sample](https://github.com/dongjb741280/freeswitch-esl-python-sample) – FreeSWITCH ESL Python 示例  
+
+### 📫 联系我
+[![GitHub](https://img.shields.io/badge/GitHub-dongjb741280-181717?style=flat&logo=github)](https://github.com/dongjb741280)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jianbin%20Dong-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/dongjb741280)  
+[![Email](https://img.shields.io/badge/Email-dongjb741280@gmail.com-D14836?style=flat&logo=gmail)](mailto:dongjb741280@gmail.com)
