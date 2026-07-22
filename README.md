@@ -136,10 +136,10 @@ beliefs:
 
 <div align="center">
   <a href="https://github.com/dongjb741280">
-    <img height="180em" src="https://github-readme-stats-eight.vercel.app/api?username=dongjb741280&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight.vercel.app/api?username=dongjb741280&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/dongjb741280">
-    <img height="180em" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=dongjb741280&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Top%20Languages" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight.vercel.app/api/top-langs?username=dongjb741280&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
   </a>
 </div>
 
@@ -149,25 +149,6 @@ beliefs:
   <a href="https://github.com/dongjb741280">
     <img src="https://streak-stats.demolab.com?user=dongjb741280&theme=tokyonight&hide_border=true&mode=weekly&card_width=800" alt="GitHub Streak" />
   </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/dongjb741280">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dongjb741280&theme=tokyonight" width="400" alt="Repos per Language" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/dongjb741280">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dongjb741280&theme=tokyonight" width="400" alt="Stats Card" />
-        </a>
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
@@ -180,15 +161,6 @@ beliefs:
   </a>
 </div>
 
-<br/>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dongjb741280/dongjb741280/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dongjb741280/dongjb741280/output/github-contribution-grid-snake.svg" />
-    <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/dongjb741280/dongjb741280/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
 
 ---
 
