@@ -136,17 +136,6 @@ beliefs:
 
 <div align="center">
   <a href="https://github.com/dongjb741280">
-    <img height="180em" src="https://github-readme-stats-eight.vercel.app/api?username=dongjb741280&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/dongjb741280">
-    <img height="180em" src="https://github-readme-stats-eight.vercel.app/api/top-langs?username=dongjb741280&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://github.com/dongjb741280">
     <img src="https://streak-stats.demolab.com?user=dongjb741280&theme=tokyonight&hide_border=true&mode=weekly&card_width=800" alt="GitHub Streak" />
   </a>
 </div>
