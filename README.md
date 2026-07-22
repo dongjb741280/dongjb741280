@@ -136,10 +136,10 @@ beliefs:
 
 <div align="center">
   <a href="https://github.com/dongjb741280">
-    <img height="180em" src="https://github-readme-stats-eight.vercel.app/api?username=dongjb741280&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=%F0%9F%93%8A%20GitHub%20Stats" alt="GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight.vercel.app/api?username=dongjb741280&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/dongjb741280">
-    <img height="180em" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=dongjb741280&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=%F0%9F%94%A5%20Top%20Languages" alt="Top Languages" />
+    <img height="180em" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=dongjb741280&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Top%20Languages" alt="Top Languages" />
   </a>
 </div>
 
@@ -154,9 +154,20 @@ beliefs:
 <br/>
 
 <div align="center">
-  <a href="https://github.com/dongjb741280">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dongjb741280&theme=tokyonight" width="800" alt="Profile Details" />
-  </a>
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/dongjb741280">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dongjb741280&theme=tokyonight" width="400" alt="Repos per Language" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/dongjb741280">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dongjb741280&theme=tokyonight" width="400" alt="Stats Card" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -314,7 +325,18 @@ beliefs:
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+
+```quote
+"Talk is cheap. Show me the code."
+                        — Linus Torvalds
+
+"First, solve the problem. Then, write the code."  
+                        — John Johnson
+
+"Simplicity is the soul of efficiency."
+                        — Austin Freeman
+```
+
 </div>
 
 <br/>
