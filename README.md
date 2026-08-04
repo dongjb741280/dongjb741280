@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,14,20&height=220&section=header&text=Jianbin%20Dong&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20AI%20Explorer%20%7C%20Open%20Source%20Builder&descAlignY=55&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,12,14,20&height=220&section=header&text=Jianbin%20Dong&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Open%20Source&descAlignY=55&descSize=18" />
 </div>
 
 <div align="center">
@@ -34,17 +34,17 @@
 name:        Jianbin Dong
 location:    China 🇨🇳
 role:        Full-Stack Developer
-focus:       AI · Cloud-Native · Systems
+focus:       AI Applications · Telecom · Fintech
 
-journey:
-  - 🧠 Exploring the frontiers of Artificial Intelligence
-  - ☁️ Architecting resilient cloud-native systems
-  - 🦀 Writing high-performance code in Rust
-  - 🔧 Automating everything that can be automated
+building:
+  - 🤖 AI-powered applications (call center, office, testing)
+  - 📞 Telecommunication systems with FreeSWITCH
+  - 💰 Payment and financial platforms
+  - 🧪 Intelligent E2E testing automation
 
 beliefs:
+  - "Talk is cheap. Show me the code."
   - "Simple is better than complex"
-  - "Code is craftsmanship — ship with pride"
   - "Learn continuously, build relentlessly"
 ```
 
@@ -57,76 +57,50 @@ beliefs:
 
 ---
 
-## &#x1f3af; Currently
-
-<table align="center">
-<tr>
-<td align="center" width="200">
-  <img src="https://img.shields.io/badge/%F0%9F%A7%A0-Deep%20Learning-FF6F00?style=for-the-badge" />
-</td>
-<td align="center" width="200">
-  <img src="https://img.shields.io/badge/%F0%9F%94%84-MLOps-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-</td>
-<td align="center" width="200">
-  <img src="https://img.shields.io/badge/%F0%9F%94%8D-RAG%20Systems-10B981?style=for-the-badge" />
-</td>
-<td align="center" width="200">
-  <img src="https://img.shields.io/badge/%F0%9F%94%A7-Agent%20Frameworks-8B5CF6?style=for-the-badge" />
-</td>
-</tr>
-</table>
-
----
-
 ## &#x2699;&#xfe0f; Tech Stack
 
 <details open>
-<summary><b>&#x1faa8; Languages I speak</b></summary>
+<summary><b>&#x1faa8; Languages</b></summary>
 <br/>
 <div align="center">
-  <img src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 </details>
 
 <details open>
-<summary><b>&#x2601;&#xfe0f; Cloud & Infra</b></summary>
+<summary><b>&#x1f6e0;&#xfe0f; Frameworks & Platforms</b></summary>
 <br/>
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-%23844FBA.svg?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-%23DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FreeSWITCH-%23009639.svg?style=for-the-badge&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </div>
 </details>
 
 <details open>
-<summary><b>&#x1f6e0;&#xfe0f; DevOps & Tooling</b></summary>
+<summary><b>&#x1f916; AI & Automation</b></summary>
 <br/>
 <div align="center">
-  <img src="https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/CircleCI-%23343434.svg?style=for-the-badge&logo=circleci&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/LLM_Integration-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI_Agents-%23FF6F00.svg?style=for-the-badge&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/E2E_Testing-%234285F4.svg?style=for-the-badge&logo=testinglibrary&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-%232C3E50.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
 </div>
 </details>
 
 <details open>
-<summary><b>&#x1f5c4;&#xfe0f; Data & Messaging</b></summary>
+<summary><b>&#x1f5c4;&#xfe0f; Data & DevOps</b></summary>
 <br/>
 <div align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitLab_CI-%23FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
 </div>
 </details>
 
@@ -150,86 +124,142 @@ beliefs:
   </a>
 </div>
 
-
 ---
 
-## &#x1f680; Featured Projects
+## &#x1f680; Projects
+
+### 🤖 AI Applications
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">🤖 AI Office Assistant</h3>
+<h3 align="center">📞 AI Call Center</h3>
+<div align="center">
+  <a href="https://github.com/dongjb741280/ai-call-center">
+    <img src="https://img.shields.io/badge/Backend-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://github.com/dongjb741280/ai-call-center-web">
+    <img src="https://img.shields.io/badge/Frontend-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FreeSWITCH-009639?style=flat-square&logo=webrtc&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=openai&logoColor=white" />
+  <br/><br/>
+  <p>AI 驱动的呼叫中心系统 — 语音交互、智能路由、数据分析一体化</p>
+</div>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">📋 AI Office Assistant</h3>
 <div align="center">
   <a href="https://github.com/dongjb741280/ai-office-assistant">
     <img src="https://img.shields.io/badge/View_Code-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <br/><br/>
-  <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=openai&logoColor=white" />
   <br/><br/>
   <p>智能办公助手 — 用 AI 自动化日常办公流程，提升团队效率</p>
-</div>
-</td>
-<td width="50%" valign="top">
-<h3 align="center">📞 AI Call Center</h3>
-<div align="center">
-  <a href="https://github.com/dongjb741280/ai-call-center">
-    <img src="https://img.shields.io/badge/View_Code-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/FreeSWITCH-009639?style=flat-square&logo=webrtc&logoColor=white" />
-  <br/><br/>
-  <p>AI 驱动呼叫中心 — 语音交互、智能路由、数据分析一体化</p>
-</div>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3 align="center">📡 FreeSWITCH ESL Python</h3>
-<div align="center">
-  <a href="https://github.com/dongjb741280/freeswitch-esl-python-sample">
-    <img src="https://img.shields.io/badge/View_Code-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/FreeSWITCH-009639?style=flat-square&logo=webrtc&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <br/><br/>
-  <p>FreeSWITCH ESL 接口 Python 示例 — 电话系统集成开发参考实现</p>
-</div>
-</td>
-<td width="50%" valign="top">
-<h3 align="center">🔭 Exploring New Ideas</h3>
-<div align="center">
-  <br/>
-  <img src="https://img.shields.io/badge/Building...-%2358A6FF?style=for-the-badge&logo=github&logoColor=white" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <br/><br/>
-  <p>把灵感变成项目，下一个激动人心的作品正在孕育中</p>
 </div>
 </td>
 </tr>
 </table>
 
----
+### &#x1f4e1; Telecommunication
 
-## &#x1f4dd; Latest Blog Posts
-
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">🐍 FreeSWITCH ESL (Python)</h3>
 <div align="center">
-  <a href="https://github.com/dongjb741280">
-    <img src="https://img.shields.io/badge/%F0%9F%93%96-AI%20%E5%8A%9E%E5%85%AC%E5%8A%A9%E6%89%8B%E5%AE%9E%E6%88%98%EF%BC%9A%E4%BB%8E%200%20%E5%88%B0%201-blue?style=for-the-badge" />
+  <a href="https://github.com/dongjb741280/freeswitch-esl-python">
+    <img src="https://img.shields.io/badge/View_Code-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://github.com/dongjb741280">
-    <img src="https://img.shields.io/badge/%F0%9F%93%96-FreeSWITCH%20ESL%20%E6%8E%A5%E5%85%A5%E6%8C%87%E5%8D%97-green?style=for-the-badge" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/dongjb741280">
-    <img src="https://img.shields.io/badge/%F0%9F%93%96-Rust%20%E5%B9%B6%E5%8F%91%E7%BC%96%E7%A8%8B%E5%BF%83%E5%BE%97-orange?style=for-the-badge" />
-  </a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FreeSWITCH-009639?style=flat-square&logo=webrtc&logoColor=white" />
+  <br/><br/>
+  <p>FreeSWITCH ESL 接口 Python 实现 — 电话系统集成开发参考</p>
 </div>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">☕ FreeSWITCH ESL (Java)</h3>
+<div align="center">
+  <a href="https://github.com/dongjb741280/freeswitch-esl-java">
+    <img src="https://img.shields.io/badge/View_Code-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/FreeSWITCH-009639?style=flat-square&logo=webrtc&logoColor=white" />
+  <br/><br/>
+  <p>FreeSWITCH ESL 接口 Java 实现 — 企业级电话系统集成</p>
+</div>
+</td>
+</tr>
+</table>
+
+### &#x1f9ea; Testing & Platform
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">🧪 E2E Auto Test</h3>
+<div align="center">
+  <a href="https://github.com/dongjb741280/e2e-auto-test">
+    <img src="https://img.shields.io/badge/View_Code-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI-FF6F00?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/E2E-4285F4?style=flat-square&logo=testinglibrary&logoColor=white" />
+  <br/><br/>
+  <p>面向变更驱动的增量 E2E 测试 — 利用 AI 分析版本差异，精准定位测试范围</p>
+</div>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">💰 Payment Platform</h3>
+<div align="center">
+  <a href="https://github.com/dongjb741280/payment-platform">
+    <img src="https://img.shields.io/badge/View_Code-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fintech-0891B2?style=flat-square&logo=stripe&logoColor=white" />
+  <br/><br/>
+  <p>支付平台 — 企业级交易系统，支持多渠道支付接入与清算</p>
+</div>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">🖥️ Base Server</h3>
+<div align="center">
+  <a href="https://github.com/dongjb741280/base_server">
+    <img src="https://img.shields.io/badge/View_Code-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+  <br/><br/>
+  <p>后端基础框架 — 开箱即用的 Java 服务模板，快速启动新项目</p>
+</div>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">🎨 Base Web</h3>
+<div align="center">
+  <a href="https://github.com/dongjb741280/base-web">
+    <img src="https://img.shields.io/badge/View_Code-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <br/><br/>
+  <p>前端基础框架 — Vue.js 项目模板，组件化开发的最佳起点</p>
+</div>
+</td>
+</tr>
+</table>
 
 ---
 
